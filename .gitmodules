@@ -1,0 +1,9 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/studiegrupp2/Server.git
+[submodule "Client"]
+	path = Client
+	url = https://github.com/studiegrupp2/Client.git
+[submodule "Shared"]
+	path = Shared
+	url = https://github.com/studiegrupp2/Shared.git
